@@ -1,13 +1,13 @@
 
 import './App.css'
 
-function App() {
-  
+import Header from './Components/header.jsx'
 
+function App() {
   return (
-    <>
-      
-    </>
+    <div>
+      <Header />
+    </div>
   )
 }
 
