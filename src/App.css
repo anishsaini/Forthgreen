@@ -3,25 +3,25 @@
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
-  padding-top: 30px;
+  padding-top: 35px;
   background-color: rgb(255, 255, 255);
 }
 
 .logo {
   display: flex;
   align-items: center;
-  padding-left: 70px;
+  padding-left: 50px;
 }
 
 .logo-image {
-  height: 30px;
+  height: 32px;
   width: auto;
 }
 
 .nav-links {
   display: flex;
   gap: 20px;
-  padding-right: 70px;
+  padding-right: 50px;
 }
 
 .nav-button {
@@ -29,6 +29,15 @@
   color: black;
   font-size: 18px;
   padding: 5px 10px;
-  border: 2px solid transparent;
-  border-radius: 4px;
+}
+.btn {
+  padding-left: 53px;
+  padding-top: 70px;
+}
+.button {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  padding: 5px 10px;
+  margin-right: 20px;
 }
